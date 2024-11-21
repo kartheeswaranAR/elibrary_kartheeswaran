@@ -1,0 +1,97 @@
+{
+  "AddBook": [
+    {
+      "id": 3,
+      "title": "python",
+      "desc": "it's contains basic functions of python",
+      "author": "venugopal",
+      "avail": "46"
+    },
+    {
+      "id": 4,
+      "title": "CPP",
+      "desc": "it's contains basic functions of CPP",
+      "author": "bhuja",
+      "avail": "452"
+    },
+    {
+      "id": 5,
+      "title": "Pirates",
+      "desc": "The life of pirates carribean",
+      "author": "Peter Bhujva",
+      "avail": "600"
+    },
+    {
+      "title": "cpp",
+      "desc": "basics",
+      "author": "muthu",
+      "avail": "400",
+      "id": 6
+    },
+    {
+      "title": "space",
+      "desc": "nubela",
+      "author": "peter.M.pascal",
+      "avail": "42",
+      "id": 7
+    },
+    {
+      "title": "the space novels",
+      "desc": "space fiction",
+      "author": "robert clew",
+      "avail": "200",
+      "id": 8
+    }
+  ],
+  "Profile": [
+    {
+      "firstName": "kartheeswaran",
+      "lastName": "AR",
+      "email": "kartheeswaran@gmail.com",
+      "password": "yuthiksha2@",
+      "id": 1
+    },
+    {
+      "firstName": "kartheeswaran",
+      "lastName": "AR",
+      "email": "kartheeswaran@gmail.com",
+      "password": "yuthiksha2@",
+      "id": 2
+    },
+    {
+      "firstName": "kartheeswaran",
+      "lastName": "AR",
+      "email": "kartheeswaran@gmail.com",
+      "password": "yuthiksha2@",
+      "id": 3
+    },
+    {
+      "firstName": "kartheeswaran",
+      "lastName": "AR",
+      "email": "kartheeswaran@gmail.com",
+      "password": "kartheeswaran1",
+      "id": 4
+    },
+    {
+      "firstName": "kartheeswaran",
+      "lastName": "AR",
+      "email": "kartheeswaran@gmail.com",
+      "password": "yuthiksha2@",
+      "id": 5
+    },
+    {
+      "firstName": "kartheeswaran1",
+      "lastName": "AR1",
+      "email": "kartheeswaran1@gmail.com",
+      "password": "123456789",
+      "id": 6
+    },
+    {
+      "firstName": "kartheeswara",
+      "lastName": "AR",
+      "email": "kartheeswaran55@gmail.com",
+      "password": "yuthiksha2@",
+      "id": 7
+    }
+  ]
+}
