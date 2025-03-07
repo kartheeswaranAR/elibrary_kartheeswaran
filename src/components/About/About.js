@@ -1,3 +1,12 @@
+/**
+ * The About component in this JavaScript code displays information about a Library Management System
+ * with an image and a brief description.
+ * @returns The `About` component is being returned, which contains JSX elements for displaying
+ * information about the Library Management System. It includes an image of a library, a welcome
+ * message, and a description of the online library management project using Spring and Hibernate. The
+ * component also provides details about the main actors of the application (Admin/Librarian and
+ * User/Students) and the main module of the system, which is
+ */
 import './About.css';
 import Libraryimage from '../../images/LibraryImage1.png';
 function About(){
